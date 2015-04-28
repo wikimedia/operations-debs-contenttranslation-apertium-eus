@@ -1,0 +1,10 @@
+apertium-eus (0.1.0-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release.
+
+  [ Kartik Mistry ]
+  * Rebuilt for Trusty.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Apr 2015 10:24:01 +0530
